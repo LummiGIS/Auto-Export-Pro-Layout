@@ -7,4 +7,4 @@ The user will need some basic Python skills to open the SuperSaver3.py file and 
 
 
 
-screen shot(https://github.com/LummiGIS/Auto-Export-Pro-Layout/blob/main/supersaver.JPG?raw=true)
+screen shot(https://github.com/LummiGIS/Auto-Export-Pro-Layout/blob/supersaver.JPG?raw=true)
