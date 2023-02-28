@@ -10,4 +10,4 @@ Here is a screen shot of an active layout in ArcGIS Pro v3 with the mapnumber te
 screen shot(https://github.com/LummiGIS/Auto-Export-Pro-Layout/blob/main/supersaver.JPG?raw=true)
 
 Here is a screen shot of the code where you need to set the path.
-code change(https://github.com/LummiGIS/Auto-Export-Pro-Layout/blob/main/supersaver.JPG?raw=true)
+code change(https://github.com/LummiGIS/Auto-Export-Pro-Layout/blob/main/scriptcode.JPG?raw=true)
