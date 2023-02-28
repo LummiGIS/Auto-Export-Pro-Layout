@@ -6,5 +6,5 @@ The script will update a user-defined text box located on the active layout with
 The user will need some basic Python skills to open the SuperSaver3.py file and set the paths to a CSV file in a directory the users has write permissions to.  The user will need to save the script and cut and paste the updated code to the toolbox tool.  Your layout needs to have an existing textbox called mapnumber in the layout prior to execution.  
 
 
-
+Here is a screen shot of an active layout in ArcGIS Pro v3 with the mapnumber text box added.
 screen shot(https://github.com/LummiGIS/Auto-Export-Pro-Layout/blob/main/supersaver.JPG?raw=true)
